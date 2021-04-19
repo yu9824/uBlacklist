@@ -32,3 +32,5 @@
 /.*it-swarm.*/
 /.*pinterest.*/
 /.*udemy.*/
+*://www.fixes.pub/*
+*://www.javaer101.com/*
