@@ -34,3 +34,4 @@
 /.*udemy.*/
 *://www.fixes.pub/*
 *://www.javaer101.com/*
+*://ichi.pro/*
