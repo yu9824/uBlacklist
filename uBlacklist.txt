@@ -35,3 +35,4 @@
 *://www.fixes.pub/*
 *://www.javaer101.com/*
 *://ichi.pro/*
+*://cloud6.net/*
