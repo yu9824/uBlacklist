@@ -38,3 +38,4 @@
 *://cloud6.net/*
 *://codehero.*/
 *.ntcdoon.org/*
+*://codehero.*/*
