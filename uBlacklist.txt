@@ -39,3 +39,4 @@
 *://codehero.*/
 *.ntcdoon.org/*
 *://codehero.*/*
+*://qapicks.com/question/*
