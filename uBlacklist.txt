@@ -40,3 +40,4 @@
 *.ntcdoon.org/*
 *://codehero.*/*
 *://qapicks.com/question/*
+*://ja.rockycode.com/*
