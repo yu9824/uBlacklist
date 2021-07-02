@@ -42,3 +42,4 @@
 *://qapicks.com/question/*
 *://ja.rockycode.com/*
 *://base64.work/*
+*://jp.quora.com/*
