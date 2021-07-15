@@ -44,3 +44,4 @@
 *://base64.work/*
 *://jp.quora.com/*
 *://isolution.pro/*
+*://bleepcoder.com/*
