@@ -47,3 +47,4 @@
 *://jp.quora.com/*
 *://isolution.pro/*
 *://bleepcoder.com/*
+*://ubuntu.buildwebhost.com/*
