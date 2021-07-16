@@ -33,6 +33,7 @@
 /.*pinterest.*/
 /.*udemy.*/
 *://www.fixes.pub/*
+*://www.kejisen.com/*
 *://www.javaer101.com/*
 *://ichi.pro/*
 *://cloud6.net/*
