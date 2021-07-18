@@ -48,3 +48,4 @@
 *://isolution.pro/*
 *://bleepcoder.com/*
 *://ubuntu.buildwebhost.com/*
+*://issues-world.com/*
