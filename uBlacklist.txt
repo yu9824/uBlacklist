@@ -38,9 +38,8 @@
 *://www.javaer101.com/*
 *://ichi.pro/*
 *://cloud6.net/*
-*://codehero.*/
 *.ntcdoon.org/*
-*://codehero.*/*
+*://codehero.jp/*
 *://qapicks.com/question/*
 *://ja.rockycode.com/*
 *://base64.work/*
