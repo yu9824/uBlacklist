@@ -33,6 +33,7 @@
 /.*pinterest.*/
 /.*udemy.*/
 *://www.fixes.pub/*
+*://ja.theihccforum.com/*
 *://runebook.dev/*
 *://www.kejisen.com/*
 *://www.javaer101.com/*
