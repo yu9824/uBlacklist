@@ -49,3 +49,5 @@
 *://bleepcoder.com/*
 *://ubuntu.buildwebhost.com/*
 *://issues-world.com/*
+*://www.py4u.net/*
+*://nomodulenamed.com/*
