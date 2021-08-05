@@ -45,6 +45,7 @@
 *://ja.rockycode.com/*
 *://base64.work/*
 *://jp.quora.com/*
+*://ja.ourladylakes.org/*
 *://isolution.pro/*
 *://bleepcoder.com/*
 *://ubuntu.buildwebhost.com/*
