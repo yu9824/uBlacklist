@@ -52,3 +52,4 @@
 *://issues-world.com/*
 *://www.py4u.net/*
 *://nomodulenamed.com/*
+*://www.generacodice.com/jp/*
