@@ -56,3 +56,4 @@
 *://try2explore.com/*
 *://www.it-mure.jp.net/ja/*
 *://www.webdevqa.jp.net/ja/*
+*://www.codetd.com/*
