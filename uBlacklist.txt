@@ -57,3 +57,4 @@
 *://www.it-mure.jp.net/ja/*
 *://www.webdevqa.jp.net/ja/*
 *://www.codetd.com/*
+*://ja.uwenku.com/*
