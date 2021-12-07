@@ -58,3 +58,4 @@
 *://www.webdevqa.jp.net/ja/*
 *://www.codetd.com/*
 *://ja.uwenku.com/*
+*://ja.pays-tarusate.org/*
