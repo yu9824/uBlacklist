@@ -61,3 +61,4 @@
 *://ja.pays-tarusate.org/*
 *://ja.cm-cabeceiras-basto.pt/*
 *://www.codetd.com/ja/*
+*://br.atsit.in/ja/*
