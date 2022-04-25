@@ -64,3 +64,5 @@
 *://br.atsit.in/ja/*
 *://ja.luigiferraresi.it/*
 *://ja.etsoutdoors.com/*
+*://jpcodeqa.com/*
+*://jpdebug.com/*
