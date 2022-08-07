@@ -67,3 +67,5 @@
 *://jpcodeqa.com/*
 *://jpdebug.com/*
 *://www.webpuroguramingu-zhi-wen-ying-dashisutemu.com/ja/*
+*://www.web-dev-qa-db-ja.com/*
+
