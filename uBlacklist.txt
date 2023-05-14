@@ -70,3 +70,4 @@
 *://www.web-dev-qa-db-ja.com/*
 *://apps-on-mac.com/ja/*
 *://news.gandi.net/ja/*
+*://wataken-blog.com/*
