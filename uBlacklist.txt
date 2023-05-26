@@ -71,3 +71,4 @@
 *://apps-on-mac.com/ja/*
 *://news.gandi.net/ja/*
 *://wataken-blog.com/*
+*://witeradvogados.com/*
