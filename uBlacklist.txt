@@ -72,3 +72,4 @@
 *://news.gandi.net/ja/*
 *://wataken-blog.com/*
 *://witeradvogados.com/*
+*://luckytemplates.com/ja/*
